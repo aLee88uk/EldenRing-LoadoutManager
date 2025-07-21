@@ -1,6 +1,5 @@
-# Elden Ring Loadout Manager
-
 ![Banner](https://i.imgur.com/Fw0TUwe.png)
+# Elden Ring Loadout Manager
 
 **Offline Loadout Swapper + Mimic Gear Handler**
 
