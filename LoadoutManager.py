@@ -66,15 +66,15 @@ else:
 
 
 DEFAULT_HOTKEYS = {
-    "save_preset_1": "shift+1",
-    "save_preset_2": "shift+2",
-    "save_preset_3": "shift+3",
-    "save_preset_4": "shift+4",
-    "save_mimic": "shift+0",
-    "load_preset_1": "ctrl+1",
-    "load_preset_2": "ctrl+2",
-    "load_preset_3": "ctrl+3",
-    "load_preset_4": "ctrl+4",
+    "save_preset_1": "Shift+1",
+    "save_preset_2": "Shift+2",
+    "save_preset_3": "Shift+3",
+    "save_preset_4": "Shift+4",
+    "save_mimic": "Shift+0",
+    "load_preset_1": "Ctrl+1",
+    "load_preset_2": "Ctrl+2",
+    "load_preset_3": "Ctrl+3",
+    "load_preset_4": "Ctrl+4",
 }
 
 DEFAULT_CONTROLLER_HOTKEYS = {
@@ -528,11 +528,11 @@ def show_settings_window():
         KEY_OPTIONS = ['0', '1', '2', '3', '4', '5', '6', '7', '8', '9',
                        'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j',
                        'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't',
-                       'u', 'v', 'w', 'x', 'y', 'z', 'up', 'down', 'left', 'right',
-                       'home', 'end', 'insert', 'delete', 'page_up', 'page_down',
-                       'comma', 'period', 'semicolon', 'colon', 'slash', 'backslash', 'quote',
-                       'numpad_0', 'numpad_1', 'numpad_2', 'numpad_3', 'numpad_4',
-                       'numpad_5', 'numpad_6', 'numpad_7', 'numpad_8', 'numpad_9']
+                       'u', 'v', 'w', 'x', 'y', 'z', 'Up', 'Down', 'Left', 'Right',
+                       'Home', 'End', 'Insert', 'Delete', 'Page_Up', 'Page_Down',
+                       'Comma', 'Period', 'Semicolon', 'Colon', 'Slash', 'Backslash', 'Quote',
+                       'Numpad_0', 'Numpad_1', 'Numpad_2', 'Numpad_3', 'Numpad_4',
+                       'Numpad_5', 'Numpad_6', 'Numpad_7', 'Numpad_8', 'Numpad_9']
 
         hotkey_frame = Frame(notebook)
         hotkey_vars = {}
