@@ -70,21 +70,11 @@ Many antivirus engines flag **PyInstaller-packed EXEs** due to their dynamic loa
 
 ## 🔧 Installation
 
-### Option 1: Use the Precompiled EXE
+###  Use the Precompiled EXE
 
 1. Download the latest release from the [Releases](https://github.com/aLee88uk/EldenRing-LoadoutManager/releases) page.
 2. Extract and run `EldenRingLoadoutManager.exe`
 3. Right-click the tray icon to access settings.
 
 
----
 
-### Option 2: Run from Source (Python)
-
-If you're cautious or want to inspect the code:
-
-1. Install [Python 3.11+](https://www.python.org/downloads/)
-2. Clone or download this repository
-3. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
